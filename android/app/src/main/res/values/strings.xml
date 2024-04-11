@@ -1,0 +1,7 @@
+<resources>
+   <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBg4cR7vrpFix-3ciU033MBIg0k6d1kzJY
+    </string>
+<!--    <string name="google_app_id">1:235436311667:android:2f11f6e5940ba74081d606</string>-->
+
+</resources>

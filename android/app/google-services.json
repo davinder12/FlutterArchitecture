@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235436311667",
+    "project_id": "responisve-ui-design",
+    "storage_bucket": "responisve-ui-design.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235436311667:android:2f11f6e5940ba74081d606",
+        "android_client_info": {
+          "package_name": "com.example.responsiveuiflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQPyXF3feUGsgPIL_aMMB2uqVGXVIumQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
